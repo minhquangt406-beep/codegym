@@ -1,27 +1,33 @@
-# Newsletter – Adobe Color
+# CodeGym Career — Material Design Landing Page
 
-Bài tập gồm 2 phiên bản newsletter với 2 bộ màu khác nhau.
+Bài thực hành xây dựng lại Landing Page CodeGym Career theo phong cách Material Design.
 
-## Phiên bản 1 – Blue / Teal
-- Primary: #2563EB
-- Secondary: #0EA5E9
-- Accent: #14B8A6
-- Light background: #F0F7FF
-- Footer: #E0F2FE
+## Files
+- `index.html`: Landing Page hoàn chỉnh.
+- `style.css`: CSS tùy chỉnh.
+- `script.js`: cuộn menu và xử lý form demo.
 
-Cảm nhận: tin cậy, công nghệ, hiện đại.
+## Material Design / MDBootstrap
+Sử dụng:
+- Bootstrap 4.5
+- MDBootstrap 4.19.1
+- Font Awesome 5.11.2
+- Google Font Roboto
 
-## Phiên bản 2 – Purple / Pink / Orange
-- Primary: #7C3AED
-- Secondary: #C026D3
-- Accent: #EA580C
-- Light background: #FFF7FB
-- Footer: #FCE7F3
-
-Cảm nhận: sáng tạo, năng động, nổi bật.
+## Nội dung
+Các phần chính được xây dựng từ nội dung CodeGym Career:
+- Header / Navbar
+- Hero: Full-Stack trong 20 tuần
+- Tổng quan và lợi ích
+- Lộ trình Coding Bootcamp
+- Career Service / hỗ trợ việc làm
+- Khóa học và kỹ năng
+- Hệ thống hỗ trợ học tập
+- Form CTA đăng ký tư vấn
+- Footer
 
 ## Chạy
-Mở `newsletter_version1.html` hoặc `newsletter_version2.html` bằng Chrome.
+Mở `index.html` bằng Chrome. Internet cần thiết để tải CDN của Bootstrap/MDBootstrap/Font Awesome/Google Fonts.
 
 ## Nộp
-Đưa cả 2 file HTML lên GitHub hoặc CodePen rồi dán link repository/CodePen.
+Đưa toàn bộ 3 file lên GitHub hoặc CodePen.
