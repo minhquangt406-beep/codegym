@@ -1,33 +1,33 @@
-# CodeGym Career — Material Design Landing Page
+# My New Project
 
-Bài thực hành xây dựng lại Landing Page CodeGym Career theo phong cách Material Design.
+Đây là Repository được tạo để thực hành Git và GitHub.
 
-## Files
-- `index.html`: Landing Page hoàn chỉnh.
-- `style.css`: CSS tùy chỉnh.
-- `script.js`: cuộn menu và xử lý form demo.
+## Mục tiêu
 
-## Material Design / MDBootstrap
-Sử dụng:
-- Bootstrap 4.5
-- MDBootstrap 4.19.1
-- Font Awesome 5.11.2
-- Google Font Roboto
+Thực hành tạo Local Repository, kết nối Remote Repository và đồng bộ mã nguồn lên GitHub.
 
-## Nội dung
-Các phần chính được xây dựng từ nội dung CodeGym Career:
-- Header / Navbar
-- Hero: Full-Stack trong 20 tuần
-- Tổng quan và lợi ích
-- Lộ trình Coding Bootcamp
-- Career Service / hỗ trợ việc làm
-- Khóa học và kỹ năng
-- Hệ thống hỗ trợ học tập
-- Form CTA đăng ký tư vấn
-- Footer
+## Các lệnh Git đã sử dụng
 
-## Chạy
-Mở `index.html` bằng Chrome. Internet cần thiết để tải CDN của Bootstrap/MDBootstrap/Font Awesome/Google Fonts.
+### git init
+Khởi tạo Local Repository Git mới.
 
-## Nộp
-Đưa toàn bộ 3 file lên GitHub hoặc CodePen.
+### git remote add origin
+Liên kết Local Repository với Remote Repository trên GitHub.
+
+### git add README.md
+Đưa README.md vào Staging Area để chuẩn bị commit.
+
+### git commit -m "Add README.md file"
+Lưu thay đổi vào Local Repository và mô tả thay đổi bằng commit message.
+
+### git branch -M main
+Đổi tên branch hiện tại thành main.
+
+### git push -u origin main
+Đẩy commit từ Local Repository lên Remote Repository trên GitHub và thiết lập upstream.
+
+## Link Repository
+
+Sau khi tạo Repository trên GitHub, dán link tại đây:
+
+https://github.com/USERNAME/my-new-project

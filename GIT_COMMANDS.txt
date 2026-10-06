@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/USERNAME/my-new-project.git
+git add README.md
+git commit -m "Add README.md file"
+git branch -M main
+git push -u origin main
