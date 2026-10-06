@@ -1,6 +1,23 @@
-git init
-git remote add origin https://github.com/USERNAME/my-new-project.git
+CÁC LỆNH THỰC HIỆN BÀI GITPROJECT
+
+1. Clone repository:
+git clone https://github.com/minhquangt406-beep/GitProject.git
+cd GitProject
+
+2. Cấu hình Git nếu cần:
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+3. Đẩy README.md:
 git add README.md
-git commit -m "Add README.md file"
-git branch -M main
-git push -u origin main
+git commit -m "Add README.md"
+git push origin main
+
+4. Đẩy thư mục source:
+git add source/
+git commit -m "Add source files"
+git push origin main
+
+5. Kiểm tra:
+git status
+git log --oneline
